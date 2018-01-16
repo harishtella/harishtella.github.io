@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hi, I am a human factors and user experience grad student at Bentley University. I have a prior degree in computer science, and before returning to school, I used my software development skills to contribute to projects in a variety of domains including bioinformatics, cloud infrastructure, and web applications. Later, I even taught people how to program at school in NYC.
+Hi, I am a human factors and user experience grad student at Bentley University. I have a prior degree in computer science, and before returning to school, I used my software development skills to contribute to projects in a variety of domains including bioinformatics, cloud infrastructure, and web applications. Later, I even taught people how to program through an intensive course in NYC.
 
 Now as a grad student, I am focused on using user-centered design
 principles to help create impactful and valuable experiences for others. I am particularly interested in experiences based in virtual reality along with experiences involving expert users.
@@ -11,9 +11,9 @@ principles to help create impactful and valuable experiences for others. I am pa
 ### More Information
 
 If you would like to know more about what I've done, please see a
-copy of [my resume](https://www.dropbox.com/s/3qr6pcejtdeeu8b/Harish-Tella-resume.pdf?dl=0).
+copy of [my resume](https://www.dropbox.com/s/th56qblfckowwnu/Harish-Tella-resume.pdf?dl=0).
 
-If you would like to see me some of my latest work in UX please check
+If you would like to see some of my latest work in UX please check
 out [my portfolio]({{ site.baseurl }}/posts).
 
 
