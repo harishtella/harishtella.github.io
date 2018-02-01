@@ -11,8 +11,6 @@ examining analogous experiences.
 
 _some of the pictures used for a collaging activity in this study_
 
-<br/>
-
 Here are some brief excerpts from the report.
 
 >We were commissioned to get a deeper understanding of Bentley University’s prospective graduate student experience. Our client wanted insights into what went on between the points when a prospect reaches out to the university and when a prospect submits their final application. This window of time presents a number of unknowns. One of which is how does the prospect expect this engagement to progress? After considering many others questions posed by our client, we decided that this question and related questions would be the most fruitful avenue of research.

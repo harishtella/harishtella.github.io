@@ -11,7 +11,6 @@ out an important user need by not designing with this ability in mind.
 
 _The above is a chart of need states fulfilled by television watching._
 
-<br/>
 Here are some excerpts from the paper. 
 
 >_The television industry has been undergoing a series of dramatic transformations over the last 30 years. These transformations have granted viewers increased amounts of freedom over what to watch and when to watch it (Jenner, 2016). This increased freedom in turn has brought changes in viewer behavior and changes in the nature of programming. This paper will show that the combined effect of these changes, embodied in the Netflix experience, is leaving out casual viewing._
