@@ -7,7 +7,7 @@ Hi, I am a human factors and user experience graduate student at Bentley Univers
  
 Before embarking on my career in UX research, I developed computer software, and I contributed to projects in a variety of domains including bioinformatics, cloud infrastructure, and web applications. I even taught people how to program in an intensive course. Eventually, what began to excite me about technology was no longer its engineering complexity but rather it was its impact on people. That lead me to UX research.
 
-Now, a graduate student, I am developing a foundation in the cognitive science behind good design, and I am honing my skills in usability testing, field research, prototyping, and other practices. As a candidate with a strong foundation in research, technology, and communication, I would make a valuable addition to any UX team. Please reach out if you would like to learn more about me or if you see a fit for an opportunity at your company.
+Now, as a graduate student, I am developing a foundation in the cognitive science behind good design, and I am honing my skills in usability testing, field research, prototyping, and other practices. As a candidate with a strong foundation in research, technology, and communication, I would make a valuable addition to any UX team. Please reach out if you would like to learn more about me or if you see a fit for an opportunity at your company.
 
 ### More Information
 
