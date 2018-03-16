@@ -3,13 +3,11 @@ layout: page
 title: About Me
 ---
 
-Hi, I am a human factors and user experience graduate student at Bentley University. I am interested in using user-centered design principles and research techniques to help uncover product and service designs that allow people to have more of what they want in their work, relationships, and overall lives. 
+Hi, I am a human factors and user experience graduate student at Bentley University. I am focused on using human-centered design principles and research techniques to help uncover product designs that serve people and their goals.
  
-Before embarking on this new career in UX research, I was a software developer, and I contributed to projects in a variety of domains including bioinformatics, cloud infrastructure, and web applications. I even taught people how to program in an intensive course. Eventually, I realized what originally drew me to technology was not its engineering complexity, but rather it was the impact it had on people. That lead me to UX research, and now its there I want to make my contribution. 
+Before embarking on my career in UX research, I developed computer software, and I contributed to projects in a variety of domains including bioinformatics, cloud infrastructure, and web applications. I even taught people how to program in an intensive course. Eventually, what began to excite me about technology was no longer its engineering complexity but rather it was its impact on people. That lead me to UX research.
 
-As a graduate student at one of the nation’s top UX programs, I am developing a foundation in the cognitive science behind good design, and I am honing practical skills in usability testing, field research, prototyping, and more. As I complete more publicly sharable work, I will post it to this site. 
-
-As a rare candidate who has both the deep technical expertise to justify designs and the communication skills to defend them, I make for a valuable addition to any UX team. Please reach out if you would like to learn more about me or see a fit for an opportunity at your company.  
+Now, a graduate student, I am developing a foundation in the cognitive science behind good design, and I am honing my skills in usability testing, field research, prototyping, and other practices. As a candidate with a strong foundation in research, technology, and communication, I would make a valuable addition to any UX team. Please reach out if you would like to learn more about me or if you see a fit for an opportunity at your company.
 
 ### More Information
 
