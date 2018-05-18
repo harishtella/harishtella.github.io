@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Usability testing of data.census.gov
+title: Usability evaluation of data.census.gov
 ---
 
-I am part of a 5-person team that will be working with the Census Bureau to test the usability of their new user-centered data platform.
+In a team of 5, I worked with the U.S. Census to perform an extensive usability evaluation of their new user-centered data platform, data.census.gov.
 
-This project is currently underway. We have performed an extensive expert review. You can see our findings [here](https://docs.google.com/presentation/d/17spNOpu0PShCmNiy7BvR08uTIitebHFuDxd0CdyAsms/edit?usp=sharing). Usability testing is coming up next. Stay tuned for updates. For now, you can check out [data.census.gov](http://data.census.gov).
+The first half of our project involved performing a thorough expert review. See this document for more information on the context and goals of this project along with the findings of our expert review. [expert review](https://harishtella.github.io/documents/750-expert-review.pdf). 
+
+The second half of this project involved recruiting participants and
+performing usability tests. See this document to understand our process
+and what we discovered. [usability testing](https://harishtella.github.io/documents/750-usability-test.pdf).
 
 <br/>
 
