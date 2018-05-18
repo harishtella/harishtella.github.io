@@ -5,7 +5,9 @@ title: Fake News
 
 As part of a research methods course, I worked with an other graduate
 student to develop a survey for quantitatively studying the effect of disputed tags on fake news
-stories. See the documents below to get the background of our project
+stories.
+
+See the documents below to get the background of our project
 along with our findings.
 
 
