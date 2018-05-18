@@ -46,4 +46,4 @@ document.write("<a href='mailto:"+link+"'>via email </a>")
 //-->
 </script><noscript>Sorry, you need Javascript on to email me.</noscript>
 
-Or reach out socially with any of the icons below.
+Or reach out on LinkedIn with the icon below.
