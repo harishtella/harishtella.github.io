@@ -3,7 +3,7 @@ layout: post
 title: Usability evaluation of data.census.gov
 ---
 
-I in a team of 5 and collaborated with the U.S. Census to perform an extensive usability evaluation of their new user-centered data platform, data.census.gov.
+I worked in a team of 5 and collaborated with the U.S. Census to perform an extensive usability evaluation of their new user-centered data platform, data.census.gov.
 
 The first half of our project involved performing a thorough expert review. See this document for more information on the context and goals of this project along with the findings of our expert review. [expert review](https://harishtella.github.io/documents/750-expert-review.pdf). 
 

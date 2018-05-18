@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User research on the prospective grad student experience
+title: The prospective grad student experience
 ---
 
 I designed and carried out a user research study for Bentley University
