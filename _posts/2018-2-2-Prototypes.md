@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Prototypes in education, healthcare, and user stories
+title: 3 great prototypes 
 ---
 
-As part of a prototyping course, I developed 3 different prototypes in
-three largely different domains and with largely different project
+As part of a prototyping course, I developed three different prototypes in
+three largely different domains and with three largely different project
 dynamics.
 
 The first prototype is an personal health-record app with the intention
@@ -15,7 +15,7 @@ of streamlining the patient experience. This was developed in a team of three, a
 
 The second prototype was collaboration between a team of two prototyping
 students and a team of three marketing students. We worked together to
-develop a concept that met a particular market need in schools. In this case it
+develop a concept that met a particular market need in schools. In this case, it
 was a watch-based homework tracker that would allow students and school
 administrators to assess the demands placed on students. Click below
 to access a Mural of our entire process.
