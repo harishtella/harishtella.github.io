@@ -5,7 +5,7 @@ title: About Me
 
 Hi, I am a human factors and user experience graduate student at Bentley University. I am focused on using human-centered design principles and research techniques to help make products that better serve people and their goals.
  
-Before embarking on my career in UX research, I developed computer software, and I contributed to projects in a variety of domains including bioinformatics, cloud infrastructure, and web applications. I even taught people how to program in an intensive course. Eventually, what excited me about technology was no longer its engineering complexity but rather it was its impact on people. That lead me to UX research.
+Before embarking on my career in UX research, I developed computer software, and I contributed to projects in a variety of domains. I even taught people how to program in an intensive course. Eventually, what excited me about technology was no longer its engineering complexity but rather it was its impact on people. That lead me to UX research.
 
 Now, as a graduate student, I am developing a foundation in the cognitive science behind good design, and I am honing my skills in usability testing, field research, prototyping, and other practices. As a candidate with a strong foundation in research, technology, and communication, I would make a valuable addition to any UX team. Please reach out if you would like to learn more about me or if you see a fit for an opportunity at your company.
 
