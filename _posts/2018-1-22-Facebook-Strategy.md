@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UX strategy for Facebook
+thumbnail: 725-ux-startegy.png
 ---
 
 As part of a course on UX leadership, I developed with two other team members a UX strategy to help lead Facebook into the future of social media and out of the current controversy around the company and social media in general. 

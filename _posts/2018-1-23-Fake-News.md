@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fake News
+thumbnail: 795-fake-news.png
 ---
 
 As part of a research methods course, I worked with an other graduate

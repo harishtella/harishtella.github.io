@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Usability evaluation of data.census.gov
+thumbnail: 750-census.png
 ---
 
 I worked in a team of 5 and collaborated with the U.S. Census to perform an extensive usability evaluation of their new user-centered data platform, data.census.gov.

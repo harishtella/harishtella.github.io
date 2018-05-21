@@ -4,7 +4,7 @@ title: The prospective grad student experience
 thumbnail: collage.png
 ---
 
-I designed and carried out a user research study for Bentley University
+I designed and carried out a qualitative user research study for Bentley University
 that sought to improve the experience of prospective students by
 examining analogous experiences.
 
