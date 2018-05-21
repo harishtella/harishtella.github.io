@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The nature and limits of basic visual perception
+thumbnail: gt3.png
 ---
 
 I wrote a scientific literature review of the biological aspects of human visual perception and applied this knowledge to a design critique of the Boss GT-3 guitar effects processor.

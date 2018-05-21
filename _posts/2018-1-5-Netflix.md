@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The demise of casual watching
+thumbnail: chart.png
 ---
 
 I wrote a paper that introduces the term casual viewing and

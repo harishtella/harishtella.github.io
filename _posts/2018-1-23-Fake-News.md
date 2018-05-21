@@ -12,7 +12,7 @@ along with our findings.
 
 
 - [initial project proposal](https://harishtella.github.io/documents/795-proposal.pdf)
-- [presentation of findings](https://harishtella.github.io/documents/795-findings-presentation.pdf)
+- [revised experiment design and presentation of findings](https://harishtella.github.io/documents/795-findings-presentation.pdf)
 - [detailed project report](https://harishtella.github.io/documents/795-detailed-report.pdf)
 
 

@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.7 $helvetica;
   color: $darkGray;
 }
 
@@ -240,9 +240,40 @@ nav {
 //
 // .main
 //
+//
+
+.post-content {
+}
+
+.summary-entry {
+  float: left;
+  width: 70%;
+  padding-right: 6px;
+
+  p {
+    margin: 0px 0px;
+  }
+
+  .read-more-box {
+    margin-top: 4px;
+  }
+
+}
+
+.thumbnail {
+  padding-left: 0px;
+  float: right;
+  width: 30%;
+
+  img {
+    width:230px; /* you can use % */
+    height: auto;
+  }
+}
+
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
 }
 

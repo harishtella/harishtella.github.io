@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MIT Reality Virtually Hackthon
+thumbnail: drama-club.png
 ---
 
 I took part in a 3-day hackathon where I helped to create "guitar hero

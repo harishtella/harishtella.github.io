@@ -9,11 +9,22 @@ permalink: /posts/
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
+      <div class="post-content">
+        <div class="summary-entry">
+            {{ post.excerpt }}
+            <div class="read-more-box">
+              <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+            </div>
+        </div>
+
+        <div class="thumbnail">
+          <!--<img class="thumbnail-pic" src="https://imh01-inmotionhosting1.netdna-ssl.com/support/images/imh-cube-blue.png"/>-->
+            <img class="thumbnail-pic" src="{{ site.baseurl }}/images/{{ post.thumbnail }}"/>
+        </div>
+        <br style="clear:both;"/>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
     </article>
   {% endfor %}
 </div>
