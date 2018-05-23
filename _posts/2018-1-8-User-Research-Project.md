@@ -18,6 +18,6 @@ Here are some brief excerpts from the report.
 
 >Overall, we found three personas that span the range of behaviors and attitudes we found among our participants. The most important quality that was derived from these differences was the amount, type, and timing of support each persona preferred. This valuable insight could allow Bentley to more effectively allocate precious recruiting resources to its prospects.
 
-Download a full copy of the report [here](https://www.dropbox.com/s/vlxg0jk8w3avzsy/research-project.docx?dl=0).
-
+- [View a full
+copy](https://harishtella.github.io/documents/780-research-project.pdf)
 

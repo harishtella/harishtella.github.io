@@ -14,6 +14,5 @@ Here are some brief excerpts from the paper.
 
 >_In the visual design arena, our signals are particular visual features that we want to arrive at the user’s attention, and noise is either other unrelated visual stimuli or stimuli that may be mistaken as our feature (McNicol, 1972). With an understanding of the visual system, one can modulate the signal strength of visual stimuli and thereby increase the likelihood that the user detects the desired features (Ware, 2013)._
 
-Download a full copy [here](https://www.dropbox.com/s/niwneh111q70xh9/vision%20processing%20paper.docx?dl=0).
-
-
+- [View a full
+copy](https://harishtella.github.io/documents/700-vision-paper.pdf)
