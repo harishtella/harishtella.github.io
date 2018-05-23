@@ -8,6 +8,8 @@ As part of a research methods course, I worked with an other graduate
 student to develop a survey for quantitatively studying the effect of disputed tags on fake news
 stories.
 
+![_config.yml]({{ site.baseurl }}/images/795-articles.png)
+
 See the documents below for the motivation and methods behind our
 project along with our findings.
 
